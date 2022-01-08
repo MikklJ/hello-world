@@ -1,2 +1,2 @@
 # hello-world
-Not my first repo
+I do programming
